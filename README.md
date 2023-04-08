@@ -12,4 +12,5 @@
 
 2. data3.json是地理信息数据
 
-![animation2](https://user-images.githubusercontent.com/29321723/230703315-ee46925c-3c20-4284-af6e-ae8a4c6be8b8.gif)
+![animation](https://user-images.githubusercontent.com/29321723/230703431-a1f1f005-f5c9-4b3a-96f8-a9bfdd932cc0.png)
+
